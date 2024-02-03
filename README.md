@@ -5,7 +5,12 @@
 
 ### Installation
 
-1. Contact Riwash For This Use 
+1. Add "harimayco/laravel-menu": "master", In Composer 
+Then in repositories of composer.json file add this line
+ {
+      "type": "git",
+      "url": "git@github.com:riwash/Drag-and-drop-menu-laravel.git"
+    },
 ```
 
 **_Step 2 & 3 are optional if you are using laravel 5.5_**
