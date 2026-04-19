@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
 use Harimayco\Menu\Controllers\MenuController;
 
 Route::group(['middleware' => config('menu.middleware')], function () {
